@@ -1,28 +1,19 @@
 {
-  "name": "team-profile-generator",
+  "name": "practice",
   "version": "1.0.0",
-  "description": "app to create team profile generator ",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "directories": {
-    "pain": "pain"
+    "lib": "lib",
+    "test": "test"
   },
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Andrew102803/team-profile-generator.git"
-  },
-  "author": "Nicole Wallace",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Andrew102803/team-profile-generator/issues"
-  },
-  "homepage": "https://github.com/Andrew102803/team-profile-generator#readme",
-  "devDependencies": {
-    "jest": "^26.0.1"
-  },
   "dependencies": {
-    "inquirer": "^7.1.0"
+    "inquirer": "^7.0.1",
+    "jest": "^24.9.0"
   }
 }
